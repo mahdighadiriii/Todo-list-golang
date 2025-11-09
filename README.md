@@ -8,7 +8,7 @@ Simple **Todo API** built with **Go**, **Gin**, and **Swagger docs**, following 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/Todo-list-golang.git
+git clone https://github.com/mahdighadiriii/Todo-list-golang.git
 cd Todo-list-golang
 
 # 2. Run the server
